@@ -6,6 +6,27 @@
 # Code Release O(Soon)
 2021-04-22: We had hoped to clear all the hurdles shortly, but we're not quite there yet. Stay tuned!
 
+Heya everyone - thank you so much for your interest in the SAME project!
+
+Quick point, we had hoped to have our repo ready by now, but we want to make sure everything is clean and free of any issues, so it's going to take us just a bit longer.
+
+However, if you're interested in building/deploying/using declarative ML, we'd love to chat! Here's some information:
+- Website – https://sameproject.org (or https://s9t.io if you’re lazy)
+- Mail - https://aka.ms/same-group
+- Slack - https://aka.ms/SAMEProjectSlack
+- The org: https://github.com/same-project/
+- The repo: https://github.com/same-project/same-cli (you're in it :))
+
+The person to yell at: 
+- David Aronchick
+- Tweeeeeter: https://twitter.com/aronchick
+- Email: daron@microsoft.com
+
+Thank you!
+
+
+
+
 ## User experience
 
 Our goal is to have a user experience that looks like this:
